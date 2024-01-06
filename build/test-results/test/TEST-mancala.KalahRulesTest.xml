@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="mancala.KalahRulesTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2023-12-02T03:26:19" hostname="CIS2430" time="0.005">
+  <properties/>
+  <testcase name="customTest()" classname="mancala.KalahRulesTest" time="0.001"/>
+  <testcase name="testCaptureStonesNonEmptyTarget()" classname="mancala.KalahRulesTest" time="0.001"/>
+  <testcase name="testMoveStonesOneMove()" classname="mancala.KalahRulesTest" time="0.001"/>
+  <testcase name="testDistributeStonesSingleMove()" classname="mancala.KalahRulesTest" time="0.0"/>
+  <testcase name="testMoveStonesWithCapture()" classname="mancala.KalahRulesTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
